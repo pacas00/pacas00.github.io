@@ -1,13 +1,16 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 	<html>
 		<head>
 			<title>{{ page.title }}</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<link href="/css/bootstrap.css" rel="stylesheet" type="text/css" />
+			<link href="/css/font-awesome.css" rel="stylesheet" type="text/css" />
 			<link href="/css/bootstrap-theme.css" rel="stylesheet" type="text/css" />
+			<link href="/css/bootstrap-social.css" rel="stylesheet" type="text/css" />
 			<script src="/js/npm.js"></script>
 			<script src="/js/bootstrap.js"></script>
+			<script src="/js/jquery.js"></script>
 		</head>
 		<body>
 			<nav class="navbar navbar-inverse">
@@ -34,10 +37,18 @@
 			</div><!-- /.container -->
 			<br/>
 			<footer>
-	    		<ul>
-	        		<li><a href="mailto:pacas00@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/pacas00">github.com/pacas00</a></li>
-				</ul>
+				<p>Copyright © Peter Cashel - {{ site.time | date: '%Y' }} </p>
+				<br/>
+				<a href="mailto:pacas00@gmail.com" class="btn btn-lg btn-primary">
+					<span class="glyphicon glyphicon-envelope"></span>
+				</a>
+				<a class="btn btn-social-icon btn-github btn-lg" href="https://github.com/pacas00">
+					<span class="fa fa-github"></span>
+				</a>
+				
+	    		<a class="btn btn-social-icon btn-twitter btn-lg" href="https://twitter.com/pacas00">
+					<span class="fa fa-twitter"></span>
+				</a>				
 			</footer>
 		</body>
 	</html>
