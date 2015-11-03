@@ -6,6 +6,10 @@ title: Peter Cashel's Blog
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+		<div class="panel panel-default">
+			<div class="panel-body">
+				<span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+			</div>
+		</div>
 	  {% endfor %}
 	</ul>
