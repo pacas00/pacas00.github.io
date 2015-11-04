@@ -1,5 +1,5 @@
 name: Peter Cashel
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-highlighter: rouge
+highlighter: pygments
 encoding: UTF-8
