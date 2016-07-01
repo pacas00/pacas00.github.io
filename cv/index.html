@@ -4,9 +4,11 @@ title: Peter Cashel's Resume
 ---
 
 	<div class="cv">
-		<a href="/cv/Resume.pdf" class="download" title="Download CV as PDF">Download CV</a>			
+		<a href="/cv/Resume.pdf" class="download" title="Download CV as PDF">Download CV</a>
+		
 	</div>
-	
-	<iframe src="/cv/Resume.pdf" width="100%" height="100%"></iframe>
+	<div id="PDF"></div>
+	<script src="/cv/pdfobject.js"></script>
+	<script>PDFObject.embed("/cv/Resume.pdf", "#PDF");</script>
 	
 	
