@@ -6,7 +6,9 @@ layout: default
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
                                         <div style="float: right;">
-                                            
+                                            {%- if thumbnail -%}
+                                                <img src="{{ thumbnail }}" alt="thumbnail" class="img-rounded">
+                                            {%- endif -%}
                                         </div>
                                         <h1 style="padding: 1px; margin: 1px;" class="BlogHead"> {{ page.title }} </h1>
                                     </div>
