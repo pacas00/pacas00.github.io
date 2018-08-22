@@ -5,15 +5,15 @@ layout: default
                             <td style="width: 100%;">
                                 <div class="panel panel-default">
                                     <div class="panel-heading">
-                                        <div style="float: right;">
-                                            {%- if page.thumbnail -%}
-                                                <img src="{{ page.thumbnail }}" alt="thumbnail" class="img-rounded">
-                                            {%- endif -%}
-                                        </div>
                                         <h1 style="padding: 1px; margin: 1px;" class="BlogHead"> {{ page.title }} </h1>
                                     </div>
                                     <div class="panel-body">
                                         <div id="blbodythumb" style="text-align: justify;">
+										    <div style="float: right;">
+												{%- if page.thumbnail -%}
+													<img src="{{ page.thumbnail }}" alt="thumbnail" class="img-rounded" style="max-width:320px;">
+												{%- endif -%}
+											</div>
                                             <p>
                                                 {{ content }}
                                             </p>

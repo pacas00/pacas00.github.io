@@ -12,9 +12,9 @@ title: Peter Cashel's Blog
 				<div class="panel panel-default">
 					<div class="panel-body">
 						<a href="{{ post.url }}" title="{{ post.title }}">
-						<div style="float: right;">
+						<div style="float: left; padding: 8px 8px;">
 							{%- if post.thumbnail -%}
-								<img src="{{ post.thumbnail }}" alt="thumbnail" class="img-rounded" height="64" width="64">
+								<img src="{{ post.thumbnail }}" alt="thumbnail" class="img-rounded" height="64">
 							{%- endif -%}
 						</div>
 							<span>{{ post.date | date_to_string }}</span> - {{ post.title }}
