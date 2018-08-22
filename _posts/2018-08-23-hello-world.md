@@ -2,7 +2,7 @@
 layout: post
 title: Hello World
 date: 2018-08-22T17:17:16.977Z
-thumbnail: /img/uploads/myface.png
+thumbnail: /img/uploads/myface2.png
 ---
 Hi There! My name is Peter Cashel.
 
