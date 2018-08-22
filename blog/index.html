@@ -11,12 +11,14 @@ title: Peter Cashel's Blog
 			{% for post in site.posts %}
 				<div class="panel panel-default">
 					<div class="panel-body">
-						<div style="float: left;">
+						<a href="{{ post.url }}" title="{{ post.title }}">
+						<div style="float: right;">
 							{%- if post.thumbnail -%}
-								<img src="{{ post.thumbnail }}" alt="thumbnail" class="img-rounded" height="64" width="64>
+								<img src="{{ post.thumbnail }}" alt="thumbnail" class="img-rounded" height="64" width="64">
 							{%- endif -%}
 						</div>
-						<span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+							<span>{{ post.date | date_to_string }}</span> - {{ post.title }}
+						</a>
 					</div>
 				</div>
 			{% endfor %}
