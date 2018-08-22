@@ -19,19 +19,31 @@
 		</head>
 		<body>
 			<nav class="navbar navbar-default">
-				<div class="container-fluid">
+				<div class="container">
 					<div class="navbar-header">
-						<div style="float: left;">
-							<a href="#"><img alt="" src="https://s.gravatar.com/avatar/c0957456af334d1616b915d585dd7565?s=48" class="img-circle"> </a>
-						</div>
-						<a class="navbar-brand" href="#">&nbsp; Peter Cashel</a>
+						<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a href="./" class="navbar-brand" style="padding: 0px 15px;">
+							<p>
+								<img alt="" src="https://s.gravatar.com/avatar/c0957456af334d1616b915d585dd7565?s=48">
+								Peter Cashel
+							</p>
+						</a>
 					</div>
-					<ul class="nav navbar-nav">
-						<li><a href="/">Home</a></li>
-						<li><a href="/about">About</a></li>
-						<!-- <li><a href="/cv/Resume.pdf">Resume</a></li>  -->
-						<li><a href="/blog">Blog</a></li>
-					</ul>
+					<div class="navbar-collapse collapse">
+						<ul class="nav navbar-nav">
+							<li><a href="/">Home</a></li>
+							<li><a href="/about">About</a></li>
+							<!-- <li><a href="/cv/Resume.pdf">Resume</a></li>  -->
+							<li><a href="/blog">Blog</a></li>
+						</ul>						
+						<ul class="nav navbar-nav navbar-right">
+							<li><a href="admin">Administration</a></li>
+						</ul>							
+					</div>
 				</div>
 			</nav>
 
