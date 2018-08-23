@@ -12,12 +12,18 @@ title: Peter Cashel's Blog
 				<div class="panel panel-default">
 					<div class="panel-body">
 						<a href="{{ post.url }}" title="{{ post.title }}">
-						<div style="float: left; padding: 8px 8px;">
+							<div style="float: left; padding: 4px 4px;">
+								<span>{{ post.date | date_to_string }}</span>
+							</div>
 							{%- if post.thumbnail contains '/' -%}
-								<img src="{{ post.thumbnail }}" alt="thumbnail" class="img-rounded" height="64">
+								<div style="float: right; padding: 8px 8px;">
+									<img src="{{ post.thumbnail }}" alt="thumbnail" class="img-rounded" height="64">
+								</div>
+								<p></p>
 							{%- endif -%}
-						</div>
-							<span>{{ post.date | date_to_string }}</span> - {{ post.title }}
+							<div style="text-align:center;">
+								{{ post.title }}
+							</div>
 						</a>
 					</div>
 				</div>
