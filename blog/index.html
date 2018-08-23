@@ -16,11 +16,11 @@ title: Peter Cashel's Blog
 								<span>{{ post.date | date_to_string }}</span>
 							</div>
 
-							<div class="col-xs-8 col-sm-8 col-md-8 col-lg-8" style="text-align:center;">
+							<div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
 								{{ post.title }}
 							</div>
 							
-							<div class="col-xs-2 col-sm-2 col-md-2 col-lg-2" style="padding: 8px 8px;">
+							<div class="col-xs-1 col-sm-1 col-md-1 col-lg-1" style="padding: 4px 4px;">
 								{%- if post.thumbnail contains '/' -%}
 									<img src="{{ post.thumbnail }}" alt="thumbnail" class="img-rounded" height="64">
 								{%- endif -%}
