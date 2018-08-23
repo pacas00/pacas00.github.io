@@ -1,6 +1,8 @@
 backend:
   name: github
   repo: pacas00/pacas00.github.io
+  branch: master
+  squash_merges: true
 #
 # This line should *not* be indented
 publish_mode: editorial_workflow
@@ -19,5 +21,5 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image", optional: true}
+      - {label: "Featured Image", name: "thumbnail", widget: "image", optional: true, required: false}
       - {label: "Body", name: "body", widget: "markdown"}
