@@ -14,7 +14,7 @@ Unbalancing Box of Bits is a FortressCraft Evolved mod with the goal of adding m
 
 <br>
 
-<div style="float: right;"><img src="https://www.petercashel.net/img/uploads/petercashel.freezoncoolingpadplacement.png" alt="Freezon Cooling Pad" width="160px" /></div>
+<div style="float: right;"><img src="https://www.petercashel.net/img/uploads/petercashel.freezoncoolingpadplacement.png" alt="Freezon Cooling Pad" width="160px" hspace="32" /></div>
 **Freezon Cooling Pad**
 
 
@@ -26,10 +26,9 @@ Currently supported machines include:
 
 
 <br><br><br>
-<br><br><br>
 
 <div style="float: right;">
-<img src="https://www.petercashel.net/img/uploads/petercashel.basepowerscanner.png" alt="Base Power Scanner" width="128px" /> </div>
+<img src="https://www.petercashel.net/img/uploads/petercashel.basepowerscanner.png" alt="Base Power Scanner" width="128px" hspace="32" /> </div>
 
  **Base Power Scanner**
 
@@ -44,10 +43,9 @@ The following generators are shown.
 * Total Power Gen per Minute
 
 <br><br><br>
-<br><br><br>
 
 <div style="float: right;">
-<img src="https://www.petercashel.net/img/uploads/petercashel.SolarPanelMK3OrganicPlacement.png" alt="MK3 Organic Solar" width="128px" /> </div>
+<img src="https://www.petercashel.net/img/uploads/petercashel.solarpanelmk3organicplacement.png" alt="MK3 Organic Solar" width="128px" hspace="32" /> </div>
 
  **MK3 Organic Solar**
 
