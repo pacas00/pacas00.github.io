@@ -14,7 +14,7 @@ Unbalancing Box of Bits is a FortressCraft Evolved mod with the goal of adding m
 
 <br>
 
-<div style="float: right;"><img src="https://www.petercashel.net/img/uploads/petercashel.freezoncoolingpadplacement.png" alt="Freezon Cooling Pad" width="128px" /></div>
+<div style="float: right;"><img src="https://www.petercashel.net/img/uploads/petercashel.freezoncoolingpadplacement.png" alt="Freezon Cooling Pad" width="160px" /></div>
 **Freezon Cooling Pad**
 
 
@@ -42,3 +42,13 @@ The following generators are shown.
 * Pyrothermic Generators
 * Solar Panels
 * Total Power Gen per Minute
+
+<br><br><br>
+<br><br><br>
+
+<div style="float: right;">
+<img src="https://www.petercashel.net/img/uploads/petercashel.SolarPanelMK3OrganicPlacement.png" alt="MK3 Organic Solar" width="128px" /> </div>
+
+ **MK3 Organic Solar**
+
+The MK3 Organic Solar is an upgraded version of its MK2 counterpart. Upgraded with heigher tier components, this new panel outputs even more power. 
