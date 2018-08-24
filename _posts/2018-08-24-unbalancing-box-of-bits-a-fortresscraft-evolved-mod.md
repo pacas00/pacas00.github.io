@@ -15,7 +15,9 @@ Unbalancing Box of Bits is a FortressCraft Evolved mod with the goal of adding m
 
 <div style="float: right;">
 
+
 ![Freezon Cooling Pad Image](/img/uploads/petercashel.freezoncoolingpadplacement.png)
+
 
  </div>
 
@@ -32,7 +34,9 @@ Currently supported machines include:
 
 <div style="float: right;">
 
-![Freezon Cooling Pad Image](/img/uploads/petercashel.basepowerscanner.png)
+
+![Base Power Scanner Image](/img/uploads/petercashel.basepowerscanner.png)
+
 
  </div>
 
