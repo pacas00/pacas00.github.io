@@ -14,13 +14,9 @@ Unbalancing Box of Bits is a FortressCraft Evolved mod with the goal of adding m
 
 <br>
 
-<div style="float: right;">
-<img src="/img/uploads/petercashel.freezoncoolingpadplacement.png" alt="Freezon Cooling Pad" width="128 />
-</div>
-
+<div style="float: right;"><img src="https://www.petercashel.net/img/uploads/petercashel.freezoncoolingpadplacement.png" alt="Freezon Cooling Pad" width="128px" /></div>
 **Freezon Cooling Pad**
 
-<br>
 
 The Freezon Cooling Pad is a 5x1x5 machine that takes freezon gas canisters from storage hoppers and injects it into machines placed on top of it.
 
@@ -33,7 +29,7 @@ Currently supported machines include:
 <br><br><br>
 
 <div style="float: right;">
-<img src="/img/uploads/petercashel.basepowerscanner.png" alt="Base Power Scanner" width="128" /> </div>
+<img src="https://www.petercashel.net/img/uploads/petercashel.basepowerscanner.png" alt="Base Power Scanner" width="128px" /> </div>
 
  **Base Power Scanner**
 
