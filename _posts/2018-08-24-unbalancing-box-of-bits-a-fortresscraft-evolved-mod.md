@@ -6,7 +6,11 @@ thumbnail: /img/uploads/ubb2.png
 ---
 Unbalancing Box of Bits is a FortressCraft Evolved mod with the goal of adding more machines and items that make sense within the design of the game.
 
-<br><br><br>
+However.   
+    
+This mod will also include unbalancing and potentially compatibility breaking changes. Once of these changes are converting Minecarts to be stackable.   
+   
+Do not remove this mod from an existing save otherwise you will risk corrupting your save. Please be aware that I do not guarantee 100% compatibility with other mods. 
 <br><br><br>
 <br><br><br>
 
@@ -14,7 +18,7 @@ Unbalancing Box of Bits is a FortressCraft Evolved mod with the goal of adding m
 
 <br>
 
-<div style="float: right;"><img src="https://www.petercashel.net/img/uploads/petercashel.freezoncoolingpadplacement.png" alt="Freezon Cooling Pad" width="160px" hspace="32" /></div>
+<div style="float: right;"><img src="https://www.petercashel.net/img/uploads/petercashel.freezoncoolingpadplacement.png" alt="Freezon Cooling Pad" width="160px" hspace="16" /></div>
 **Freezon Cooling Pad**
 
 
@@ -28,7 +32,7 @@ Currently supported machines include:
 <br><br><br>
 
 <div style="float: right;">
-<img src="https://www.petercashel.net/img/uploads/petercashel.basepowerscanner.png" alt="Base Power Scanner" width="128px" hspace="32" /> </div>
+<img src="https://www.petercashel.net/img/uploads/petercashel.basepowerscanner.png" alt="Base Power Scanner" width="128px" hspace="48" /> </div>
 
  **Base Power Scanner**
 
@@ -45,7 +49,7 @@ The following generators are shown.
 <br><br><br>
 
 <div style="float: right;">
-<img src="https://www.petercashel.net/img/uploads/petercashel.solarpanelmk3organicplacement.png" alt="MK3 Organic Solar" width="128px" hspace="32" /> </div>
+<img src="https://www.petercashel.net/img/uploads/petercashel.solarpanelmk3organicplacement.png" alt="MK3 Organic Solar" width="128px" hspace="48" /> </div>
 
  **MK3 Organic Solar**
 
