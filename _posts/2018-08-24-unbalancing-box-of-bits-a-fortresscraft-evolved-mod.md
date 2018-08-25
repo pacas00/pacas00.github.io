@@ -29,7 +29,8 @@ Currently supported machines include:
 * The Continuous Casting Basin
 
 
-<br><br><hr />
+<br><br>
+<hr />
 
 <div style="float: right;">
 <img src="https://www.petercashel.net/img/uploads/petercashel.basepowerscanner.png" alt="Base Power Scanner" width="128px" hspace="32" /> </div>
@@ -46,7 +47,8 @@ The following generators are shown.
 * Solar Panels
 * Total Power Gen per Minute
 
-<br><br><hr />
+<br><br>
+<hr />
 
 <div style="float: right;">
 <img src="https://www.petercashel.net/img/uploads/petercashel.solarpanelmk3organicplacement.png" alt="MK3 Organic Solar" width="128px" hspace="32" /> </div>
