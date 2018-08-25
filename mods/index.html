@@ -8,8 +8,7 @@ title: Peter Cashel's FortressCraft Mods
 	</div>
 	<div class="panel-body">
 		<ul class="posts">
-			{% for post in site.posts %}
-				{%- if post.tag contains 'FCE' -%}
+			{% for post in site.posts_mods %}
 				<div class="panel panel-default">
 					<div class="panel-body">
 						<a href="{{ post.url }}" title="{{ post.title }}">
@@ -29,7 +28,6 @@ title: Peter Cashel's FortressCraft Mods
 						</a>
 					</div>
 				</div>
-				{%- endif -%}
 			{% endfor %}
 		</ul>
 	</div>

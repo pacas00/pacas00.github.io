@@ -8,13 +8,13 @@ layout: feed
 	<link href="http://pacas00.github.io/blog/atom.xml" rel="self"/>
 	<link href="http://pacas00.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://pacas00.github.io/blog</id>
+	<id>http://pacas00.github.io/mods</id>
 	<author>
 		<name>Peter Cashel</name>
 		<email>pacas00hub@gmail.com</email>
 	</author>
 
-	{% for post in site.posts %}
+	{% for post in site.posts_mods %}
 		<entry>
 			<title>{{ post.title }}</title>
 			<link href="http://pacas00.github.io{{ post.url }}"/>
