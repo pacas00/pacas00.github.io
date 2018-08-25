@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Peter Cashel's Blog
+title: Peter Cashel's FortressCraft Mods
 ---
 <div class="panel panel-primary">
 	<div class="panel-heading">
@@ -9,7 +9,7 @@ title: Peter Cashel's Blog
 	<div class="panel-body">
 		<ul class="posts">
 			{% for post in site.posts %}
-				{%- (if post.tag contains 'FCE') == false -%}
+				{%- if post.tag contains 'FCE' -%}
 				<div class="panel panel-default">
 					<div class="panel-body">
 						<a href="{{ post.url }}" title="{{ post.title }}">
