@@ -6,14 +6,16 @@ thumbnail: /img/uploads/ubb2.png
 ---
 ### Unbalancing Box of Bits is a FortressCraft Evolved mod with the goal of adding more machines and items that make some sense within the design of the game.
 
-However.\
-\
+However.
+
 This mod will also include unbalancing and potentially compatibility breaking changes. One of these changes are converting Minecarts to be stackable.   
 
 Do not remove this mod from an existing save otherwise you will risk corrupting your save. Please be aware that I do not guarantee 100% compatibility with other mods. 
 <br><br>
 
-Find the mod on the Steam Workshop at: <https://steamcommunity.com/sharedfiles/filedetails/?id=1494240155>
+Find the mod on the Steam Workshop at 
+<https://steamcommunity.com/sharedfiles/filedetails/?id=1494240155>
+
 <br><br>
 
 ### New Machines
@@ -64,12 +66,14 @@ The MK3 Organic Solar is an upgraded version of its MK2 counterpart. Upgraded wi
 
 <hr />
 
-#### Credits and Thanks
+### Credits and Thanks
 
 Andy (Andyr00222) for the Custom Freezon Cooling Pad Model.
 
 Todd (DMPDesign) for the Custom Freezon Cooling Pad Textures.
 
 DjArcas for hooking the model up to make things easier.
+
+<br>
 
 Also many thanks to Steveman0 and Mad Vandal. I asked quite a few modding questions on the FCE discord.
