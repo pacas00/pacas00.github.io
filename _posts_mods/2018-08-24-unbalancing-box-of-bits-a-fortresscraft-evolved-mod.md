@@ -57,4 +57,5 @@ The following generators are shown.
 
 The MK3 Organic Solar is an upgraded version of its MK2 counterpart. Upgraded with heigher tier components, this new panel outputs even more power. 
 
-<br><br><hr />
+<br><br>
+<hr />
