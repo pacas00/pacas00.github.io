@@ -6,12 +6,15 @@ thumbnail: /img/uploads/ubb2.png
 ---
 ### Unbalancing Box of Bits is a FortressCraft Evolved mod with the goal of adding more machines and items that make some sense within the design of the game.
 
-However.   
-    
-This mod will also include unbalancing and potentially compatibility breaking changes. Once of these changes are converting Minecarts to be stackable.   
-   
+However.\
+\
+This mod will also include unbalancing and potentially compatibility breaking changes. One of these changes are converting Minecarts to be stackable.   
+
 Do not remove this mod from an existing save otherwise you will risk corrupting your save. Please be aware that I do not guarantee 100% compatibility with other mods. 
-<br><br><br>
+<br><br>
+
+Find the mod on the Steam Workshop at: <https://steamcommunity.com/sharedfiles/filedetails/?id=1494240155>
+<br><br>
 
 ### New Machines
 
@@ -21,15 +24,14 @@ Do not remove this mod from an existing save otherwise you will risk corrupting 
 
 **Freezon Cooling Pad**
 
-
 The Freezon Cooling Pad is a 5x1x5 machine that takes freezon gas canisters from storage hoppers and injects it into machines placed on top of it.
 
 Currently supported machines include:
 
 * The Continuous Casting Basin
 
-
 <br><br>
+
 <hr />
 
 <div style="float: right;">
@@ -48,6 +50,7 @@ The following generators are shown.
 * Total Power Gen per Minute
 
 <br><br>
+
 <hr />
 
 <div style="float: right;">
@@ -58,4 +61,15 @@ The following generators are shown.
 The MK3 Organic Solar is an upgraded version of its MK2 counterpart. Upgraded with heigher tier components, this new panel outputs even more power. 
 
 <br><br>
+
 <hr />
+
+#### Credits and Thanks
+
+Andy (Andyr00222) for the Custom Freezon Cooling Pad Model.
+
+Todd (DMPDesign) for the Custom Freezon Cooling Pad Textures.
+
+DjArcas for hooking the model up to make things easier.
+
+Also many thanks to Steveman0 and Mad Vandal. I asked quite a few modding questions on the FCE discord.
