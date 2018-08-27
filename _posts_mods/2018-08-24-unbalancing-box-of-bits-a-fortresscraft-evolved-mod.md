@@ -10,7 +10,7 @@ However.
 
 This mod will also include unbalancing and potentially compatibility breaking changes. One of these changes are converting Minecarts to be stackable.   
 
-Do not remove this mod from an existing save otherwise you will risk corrupting your save. Please be aware that I do not guarantee 100% compatibility with other mods. 
+It is safe to add this mod to an existing save, But, Do not remove this mod from an existing save otherwise you will risk corrupting your save. Please be aware that I do not guarantee 100% compatibility with other mods. 
 <br><br>
 
 Find the mod on the Steam Workshop at 
@@ -21,7 +21,7 @@ Changelog can be found at.
 
 <br><br>
 
-### New Machines
+## New Machines
 
 <hr />
 
@@ -67,21 +67,55 @@ The MK3 Organic Solar is an upgraded version of its MK2 counterpart. Upgraded wi
 
 <br><br>
 
+
+
+## New Items
+
+<hr />
+
+None yet.
+
+
+<br><br>
+
+## Game Changes
+
+<hr />
+
+* Research Station now has a blue texture like it originally did. I feel the blue varient looks nice.
+
+* * Patreons wearing the Tuxedo Skin will get a custom black texture.
+
+
+
+<br><br>
+
 <hr />
 
 For upcoming features, check out the Upcoming Features page.     
  <https://www.petercashel.net/mods/2018/08/27/unbalancing-box-of-bits-upcoming-features>
+<hr />
+
+#### Compatibility Notes
+The following machines are replaced with modded versions
+* Blast Furnace - Needs changes to recogise modified CCB.
+* Continous Casting Basin - Additional logic is required for the Freezon Cooling Pad.
+* Research Station - Additional logic for texture control.
+* Minecarts have been made stackable.
+* * Single stack items like boosters and carts can safely convert to stackable, but converting back leaves you with a single item.
+* * There may be run on corruption when trying to convert back, For safety, do not remove the mod after adding.
+
 
 
 <hr />
 
-### Credits and Thanks
+## Credits and Thanks
 
-Andy (Andyr00222) for the Custom Freezon Cooling Pad Model.
+**Andy (Andyr00222) for the Custom Freezon Cooling Pad Model.**
 
-Todd (DMPDesign) for the Custom Freezon Cooling Pad Textures.
+**Todd (DMPDesign) for the Custom Freezon Cooling Pad Textures.**
 
-DjArcas for hooking the model up to make things easier.
+**DjArcas for hooking the model up to make things easier.**
 
 <br>
 
