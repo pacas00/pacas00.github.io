@@ -13,5 +13,5 @@ collections:
     output: true
     permalink: /mods/:year/:month/:day/:title
 
-plugins:
+gems:
   - jekyll-feed
