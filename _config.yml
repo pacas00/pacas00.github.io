@@ -3,6 +3,7 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 highlighter: rouge
 encoding: UTF-8
+author: Peter Cashel
 
 collections:
   posts:
@@ -11,3 +12,6 @@ collections:
   posts_mods:
     output: true
     permalink: /mods/:year/:month/:day/:title
+
+plugins:
+  - jekyll-feed
