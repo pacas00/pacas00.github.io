@@ -16,6 +16,9 @@ Do not remove this mod from an existing save otherwise you will risk corrupting 
 Find the mod on the Steam Workshop at 
 <https://steamcommunity.com/sharedfiles/filedetails/?id=1494240155>
 
+Changelog can be found at.
+<https://www.petercashel.net/mods/2018/08/27/unbalancing-box-of-bits-change-log>
+
 <br><br>
 
 ### New Machines
