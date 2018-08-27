@@ -69,6 +69,12 @@ The MK3 Organic Solar is an upgraded version of its MK2 counterpart. Upgraded wi
 
 <hr />
 
+For upcoming features, check out the Upcoming Features page.     
+ <https://www.petercashel.net/mods/2018/08/27/unbalancing-box-of-bits-upcoming-features>
+
+
+<hr />
+
 ### Credits and Thanks
 
 Andy (Andyr00222) for the Custom Freezon Cooling Pad Model.
