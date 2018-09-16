@@ -19,7 +19,16 @@ Find the mod on the Steam Workshop at
 Changelog can be found at.
 <https://www.petercashel.net/mods/2018/08/27/unbalancing-box-of-bits-change-log>
 
+I plan to stream working on this mod, details will be here in future.
+
 <br><br>
+
+
+<br><br>
+**Note: Work has been eating up my time, Mod is not abandoned, just work on it is very slow. Hopefully I'll have more stuff out before the next game patch.**
+<br><br>
+<br><br>
+
 
 ## New Machines
 
